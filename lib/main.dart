@@ -268,9 +268,12 @@ class OnBoardContent extends StatelessWidget {
     double width = MediaQuery.of(context).size.width;
     return Container(
       decoration: BoxDecoration(
+        // color: ,
           image: DecorationImage(
               fit: BoxFit.contain,
-              filterQuality: FilterQuality.high,
+              opacity: 0.75,
+              colorFilter: const ColorFilter.mode(Colors.black45, BlendMode.colorDodge),
+              filterQuality: FilterQuality.low,
               image: AssetImage(image))),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
