@@ -22,3 +22,37 @@ Togo               多哥
 Uganda             烏干達  
 Vietnam            越南  
 Zambia             尚比亞
+
+
+
+
+Of course! Here's your original list, now paired with the corresponding English name and the corrected Traditional Chinese:
+
+| Original Input                      | English Name             | Traditional Chinese              |
+|------------------------------------|---------------------------|----------------------------------|
+| 柬埔寨                             | Cambodia                  | 柬埔寨                           |
+| 喀麦隆                             | Cameroon                  | 喀麥隆                           |
+| 中国                               | China                     | 中國                         |
+| 象牙海岸                           | Côte d'Ivoire             | 象牙海岸                         |
+| 加纳                               | Ghana                     | 加納                         |
+| 香港                               | Hong Kong                 | 香港                             |
+| 印度                               | India                     | 印度                             |
+| 印度尼西亚                         | Indonesia                 | 印度尼西亞                   |
+| 日本                               | Japan                     | 日本                             |
+| 肯尼亚                             | Kenya                     | 肯尼亞                       |
+| 韩国                               | South Korea               | 韓國                         |
+| 老挝                               | Laos                      | 寮國                         |
+| 马来西亚                           | Malaysia                  | 馬來西亞                     |
+| 马来西亚 (回教保险)                | Malaysia (Takaful)        | 馬來西亞（回教保險）        |
+| 尼日利亚                           | Nigeria                   | 奈及利亞 / 尼日利亞     |
+| 菲律宾                             | Philippines               | 菲律賓                       |
+| 保诚集团                           | Prudential Group          | 保誠集團                     |
+| 新加坡                             | Singapore                 | 新加坡                           |
+| 台湾                               | Taiwan                    | 台灣                             |
+| 泰国                               | Thailand                  | 泰國                         |
+| 多哥                               | Togo                      | 多哥                             |
+| 乌干达                             | Uganda                    | 烏干達                       |
+| 越南                               | Vietnam                   | 越南                             |
+| 赞比亚                             | Zambia                    | 尚比亞                       |
+
+Let me know if you want this in a table file or formatted for a particular use (e.g., app, database, translation sheet).
