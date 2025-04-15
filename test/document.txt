@@ -1,0 +1,24 @@
+Cambodia           柬埔寨  
+Cameroon           喀麥隆  
+China              中國  
+Cote d'Ivoire      象牙海岸  
+Ghana              加納  
+Hong Kong          香港  
+India              印度  
+Indonesia          印尼  
+Japan              日本  
+Kenya              肯亞  
+Korea              韓國  
+Laos               寮國  
+Malaysia           馬來西亞  
+Malaysia (Takaful) 馬來西亞（回教保險）  
+Nigeria            奈及利亞  
+Philippines        菲律賓  
+Prudential PLC     保誠集團  
+Singapore          新加坡  
+Taiwan             台灣  
+Thailand           泰國  
+Togo               多哥  
+Uganda             烏干達  
+Vietnam            越南  
+Zambia             尚比亞
