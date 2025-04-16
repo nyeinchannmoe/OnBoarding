@@ -52,6 +52,39 @@ Of course! Here's your original list, now paired with the corresponding English 
 | 泰国                               | Thailand                  | 泰國                         |
 | 多哥                               | Togo                      | 多哥                             |
 | 乌干达                             | Uganda                    | 烏干達                       |
+
+
+
+Sure! Here's the list with translations in **English**, **Lao**, and **Thai** for each country or entity:
+
+| English               | Lao (ລາວ)                            | Thai (ไทย)                        |
+|-----------------------|---------------------------------------|-----------------------------------|
+| Cambodia              | ກຳປູເຈຍ                              | กัมพูชา                            |
+| Cameroon              | ຄາເມຣູນ                              | แคเมอรูน                           |
+| China                 | ຈີນ                                  | จีน                                |
+| Cote d'Ivoire         | ໂຄຕ ດິວວາ                             | โกตดิวัวร์                         |
+| Ghana                 | ການາ                                 | กานา                               |
+| Hong Kong             | ຮົງກົງ                                | ฮ่องกง                             |
+| India                 | ອິນເດຍ                                | อินเดีย                            |
+| Indonesia             | ອິນໂດເນເຊຍ                            | อินโดนีเซีย                        |
+| Japan                 | ຍີ່ປຸ່ນ                               | ญี่ปุ่น                             |
+| Kenya                 | ເຄນຢາ                                | เคนยา                              |
+| Korea                 | ເກົາຫຼີ                               | เกาหลี                             |
+| Laos                  | ລາວ                                  | ลาว                                |
+| Malaysia              | ມາເລເຊຍ                               | มาเลเซีย                           |
+| Malaysia (Takaful)    | ມາເລເຊຍ (ທາຄາຟູນ)                     | มาเลเซีย (ตะกาฟุล)                |
+| Nigeria               | ໄນຈີເຣຍ                               | ไนจีเรีย                           |
+| Philippines           | ຟິລິບປິນ                              | ฟิลิปปินส์                         |
+| Prudential PLC        | ພຣູເດັນເຊີ ພີເອລຊີ                    | พรูเด็นเชียล พีแอลซี               |
+| Singapore             | ສິງກະໂປ                              | สิงคโปร์                           |
+| Taiwan                | ໄຕ້ຫວັນ                               | ไต้หวัน                            |
+| Thailand              | ໄທ                                    | ไทย                                |
+| Togo                  | ໂຕໂກ                                  | โตโก                               |
+| Uganda                | ອູການດາ                               | ยูกันดา                            |
+| Vietnam               | ຫວຽດນາມ                               | เวียดนาม                           |
+| Zambia                | ແຊມເບຍ                                | แซมเบีย                            |
+
+Let me know if you'd like this exported as a table or file!
 | 越南                               | Vietnam                   | 越南                             |
 | 赞比亚                             | Zambia                    | 尚比亞                       |
 
